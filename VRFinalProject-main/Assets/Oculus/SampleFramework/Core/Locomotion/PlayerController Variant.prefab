@@ -105,7 +105,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4926590347846174712, guid: 522b89d0f09cc834db5f015f40e578f3, type: 3}
       propertyPath: m_Name
-      value: PlayerController
+      value: PlayerController Variant
       objectReference: {fileID: 0}
     - target: {fileID: 4926590347846174719, guid: 522b89d0f09cc834db5f015f40e578f3, type: 3}
       propertyPath: HeightOffset
@@ -115,13 +115,9 @@ PrefabInstance:
       propertyPath: MinimumHeight
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4926590348205885345, guid: 522b89d0f09cc834db5f015f40e578f3, type: 3}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 4926590348205885346, guid: 522b89d0f09cc834db5f015f40e578f3, type: 3}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4926590348205885350, guid: 522b89d0f09cc834db5f015f40e578f3, type: 3}
       propertyPath: EnableMovementDuringAim
@@ -146,6 +142,10 @@ PrefabInstance:
     - target: {fileID: 4926590348205885369, guid: 522b89d0f09cc834db5f015f40e578f3, type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4926590348205885373, guid: 522b89d0f09cc834db5f015f40e578f3, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4926590348205885373, guid: 522b89d0f09cc834db5f015f40e578f3, type: 3}
       propertyPath: AimCollisionLayerMask.m_Bits
